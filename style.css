@@ -1,0 +1,14 @@
+body {
+  padding-top: 4.5rem;
+  padding-bottom: 3rem;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+tr.table-row
+{
+  cursor: pointer;
+}
